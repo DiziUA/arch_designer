@@ -1,0 +1,10 @@
+streamlit
+altair
+matplotlib
+scipy
+numpy
+pandas
+click
+joblib
+paramiko
+graphviz
