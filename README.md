@@ -136,9 +136,6 @@ If you use this simulator in academic work, please cite:
 Popilnukha I., Chychuzhko M., Kalejnikov G. 
 CPU Microarchitecture Simulator with Manual Parameter Configuration: 
 A Study of Energy Efficiency and Performance. SDaS 2025.
-```
-(Replace with final proceedings details once available.)
-
 ---
 
 ## 🤝 Contributing
