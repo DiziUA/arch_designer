@@ -1,0 +1,1 @@
+{"arch_type": "ASIC", "pipeline_stages": 12, "cache_type": "Non-inclusive", "cache_size": 16, "compute_units": 48, "branch_predictor": "Dynamic", "out_of_order": true}
